@@ -36,6 +36,34 @@
             </div>
         </section> -->
 
+        <!-- SECTION ABOUT -->
+        <section id="about">
+{#
+            <div class="about-img" data-stellar-background-ratio="0.5">
+                <div id="head" class="container">
+                    <div class="row text-center">
+                        <h2 class="about-header col-lg-12 uppercase wow fadeInDown">What is the advisor?</h2>
+                    </div>
+                    <div class="row">
+                        <p class="photo-credit">Photo: Matylda Czarnecka, September 2013</p>
+                    </div>
+                </div>
+            </div>
+#}            
+            <div class="about">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <h2>A 5-minute guided interview designed to provide you case-studies and learnings about crowdsourcing tailored to your needs.</h2>
+                        </div>
+                        <div class="col-lg-4">
+                            <a class="button button-big button-border-dark" href="advisor.html">Try the Advisor</a>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </section>
+
 
         <!-- SECTION PROCESS -->
         <section id="process">
@@ -137,34 +165,6 @@
         </section>
 
 
-        <!-- SECTION ABOUT -->
-        <section id="about">
-            <div class="about-img" data-stellar-background-ratio="0.5">
-                <div id="head" class="container">
-                    <div class="row text-center">
-                        <h2 class="about-header col-lg-12 uppercase wow fadeInDown">What is the advisor?</h2>
-                    </div>
-                    <div class="row">
-                        <p class="photo-credit">Photo: Matylda Czarnecka, September 2013</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="about">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8">
-                            <h2>A 5-minute guided interview designed to provide you case-studies and learnings about crowdsourcing tailored to your needs.</h2>
-                        </div>
-                        <div class="col-lg-4">
-                            <a class="button button-big button-border-dark" href="advisor.html">Try the Advisor</a>
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </section>
-        
-        
         
         <!-- MILESTONES -->
         <div id="milestone">
@@ -199,98 +199,7 @@
             </div>
         </div>
         
-        
-        <!-- CASE STUDIES -->
-        <section id="case-studies">
-        	<div class="container">
-            	<div class="row">
-                	<div class="col-lg-12 text-center">
-                    	<h2 class="uppercase">Knowledge Base</h2>
-                        <a href="case_studies.csv" style="float:right; margin-right:10%; margin-top: -37px;"><i class="fa fa-download fa-2x"></i></a>
-                    </div>
-                	<div class="wrapper">
-                        <div id="type-filters-container" class="cbp-l-filters-button s-filters">
-                            <div class="filter-label">Type: </div>
-                            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
-                            {% for filter in enums['type'] %}
-                                <div data-filter=".{{filter.replace(" ","-").lower() }}" class="cbp-filter-item">{{ filter }}</div>
-                            {% endfor %}
-                        </div>
-                        <div id="scope-filters-container" class="cbp-l-filters-button s-filters">
-                            <div class="filter-label">Scope: </div>
-                            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
-                            {% for filter in enums['scope'] %}
-                                <div data-filter=".{{filter.replace(" ","-").lower() }}" class="cbp-filter-item">{{ filter }}</div>
-                            {% endfor %}
-                        </div>
-                        <div id="scope-filters-container" class="cbp-l-filters-button s-filters">
-                            <div class="filter-label">Sector: </div>
-                            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
-                            {% for filter in enums['sector'] %}
-                                <div data-filter=".{{filter.replace(" ","-").lower() }}" class="cbp-filter-item">{{ filter }}</div>
-                            {% endfor %}
-                        </div>
-                        <div id="scope-filters-container" class="cbp-l-filters-button s-filters">
-                            <div class="filter-label">Activity: </div>
-                            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
-                            {% for filter in enums['activity'] %}
-                                <div data-filter=".{{filter.replace(" ","-").lower() }}" class="cbp-filter-item">{{ filter }}</div>
-                            {% endfor %}
-                        </div>
-                        <div id="scope-filters-container" class="cbp-l-filters-button s-filters">
-                            <div class="filter-label">Cost: </div>
-                            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All</div>
-                            {% for filter in enums['cost'] %}
-                                <div data-filter=".{{filter.replace("-","").lower()
-                                                                            .replace(" ","-")
-                                                                            .replace("$","")
-                                                                            .replace(",","")
-                                                                            .replace("/","")
-                                                                            .replace("+","") }}" class="cbp-filter-item">{{ filter }}</div>
-                            {% endfor %}
-                        </div>
-                        <div id="grid-container" class="cbp-l-grid-projects ">
-                            <ul>
-                                <li class="cbp-item">
-                                        <div class="cbp-caption">
-                                            <div class="cbp-caption-defaultWrap">
-                                                <a href="form.html"><img src="img/casestudies/share-your-story-small.png" alt="" width="100%"></a>
-                                            </div>
-                                        </div>
-                                        <div class="cbp-l-grid-projects-title">Share Your Crowdsourcing Story</div>
-                                    </li>
-                                {% for case in case_studies[0:11] %}
-                                    <li class="cbp-item {% if case['type'] %} {{ case['type'].replace(" ","-").lower() }}{% endif%}
-                                                        {% for f in case['scope'] %} {{ f.replace(" ","-").lower() }} {%endfor%}
-                                                        {% if case['sector'] %} {{ case['sector'].replace(" ","-").lower() }}{% endif%}
-                                                        {% for f in case['dimensions']['activity'] %} {{ f.replace(" ","-").lower() }} {%endfor%}
-                                                        {% if case['cost'] %} {{ case['cost'].replace("-","").replace(" ","-").replace("$","").replace(",","").replace("/","").replace("+","").lower() }}{% endif%} ">
-                                        <div class="cbp-caption">
-                                            <div class="cbp-caption-defaultWrap">
-                                                <img src="img/casestudies/{{case['title'].replace(".","-").replace(" ","-").lower()}}-small.png" alt="" width="100%">
-                                            </div>
-                                            <div class="cbp-caption-activeWrap">
-                                                <div class="cbp-l-caption-alignCenter">
-                                                    <div class="cbp-l-caption-body">
-                                                        <a href="ajax/{{case['title'].replace(" ","-").lower()}}.html" class="cbp-singlePage cbp-l-caption-buttonLeft"><i class="pe-3x pe-7s-plus"></i></a>
-                                                        <a href="img/casestudies/{{case['title'].replace(".","-").replace(" ","-").lower()}}-big.png" class="cbp-lightbox cbp-l-caption-buttonRight" data-title=""><i class="pe-3x pe-7s-search"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="cbp-l-grid-projects-title">{{case['title']}}</div>
-                                        <div class="cbp-l-grid-projects-desc">{{', '.join(case['focus'])}}</div>
-                                    </li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        <div class="cbp-l-loadMore-button">
-                            <a href="ajax/loadMore.html" class="cbp-l-loadMore-button-link">LOAD MORE</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
 
         <!-- WHAT IS THE ADVISOR -->
         <section id="what-is-advisor">
@@ -308,31 +217,6 @@
         </section>
 
 
-        <!-- SECTION TEAM -->
-        <section id="team">
-            <div class="container">
-                <div class="row text-center">
-                    <h2 class="uppercase">The Crowdsorcerers</h2>
-                    <div class="col-lg-10 col-lg-offset-1">
-                        <div id="team-slider" class="owl-carousel owl-theme">
-                            {% for member in content['team'] %}
-                                <div class="item">
-                                    <div class="imagewrap">
-                                        <img class="img-responsive img-circle" src="{{member['thumbnail']}}" alt="">
-                                        <div class="image-overlay img-circle"></div>
-                                        <div class="buttons">
-                                            <span class="whitecircle"><a href="{{member['twitter']}}"><i class="fa fa-twitter"></i></a></span>
-                                            <span class="whitecircle"><a href="{{member['linkedin']}}"><i class="fa fa-linkedin"></i></a></span>
-                                        </div>
-                                    </div>
-                                    
-                                    <h3>{{member['name']}}</h3>
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
 
 {% endblock %}

@@ -21,6 +21,26 @@
 		    <div class="cbp-l-project-desc-text">{{historical_information}}</div>
 		    <br>
 	    {% endif %}
+	    {% if crowd %}
+		    <div class="cbp-l-project-desc-title"><span>Description of the participants</span></div>
+		    <div class="cbp-l-project-desc-text">{{crowd}}</div>
+		    <br>
+	    {% endif %}
+	    {% if output %}
+		    <div class="cbp-l-project-desc-title"><span>Output</span></div>
+		    <div class="cbp-l-project-desc-text">{{output}}</div>
+		    <br>
+	    {% endif %}
+	    {% if impact_longer_term: %}
+		    <div class="cbp-l-project-desc-title"><span>Impact</span></div>
+		    <div class="cbp-l-project-desc-text">{{impact_longer_term}}</div>
+		    <br>
+	    {% endif %}
+	    {% if validation: %}
+		    <div class="cbp-l-project-desc-title"><span>Why crowdsourcing over any other process</span></div>
+		    <div class="cbp-l-project-desc-text">{{validation}}</div>
+		    <br>
+	    {% endif %}
 	    {% if lessons %}
 		    <div class="cbp-l-project-desc-title"><span>Lessons Learned</span></div>
 		    <div class="cbp-l-project-desc-text">{{lessons}}</div>
@@ -47,10 +67,15 @@
 				<li><strong>Location</strong>{{city}}, {{state}}</li>
 				<li><strong>Country</strong>{{country}}</li>
 			{% endif %}
-			<li><strong>Categories</strong>{{', '.join(focus)}}</li>
+			<li><strong>Focus</strong>{{', '.join(focus)}}</li>
 			<li><strong>Scope</strong>{{', '.join(scope)}}</li>
 			<li><strong>Sector</strong>{{sector}}</li>
 			<li><strong>Size</strong>{{size}}</li>
+			<li><strong>Launch since</strong> {{duration}}</li>
+			<li><strong>Cost</strong> {{cost}}</li>
+			<li><strong>Activities</strong> {{', '.join(dimensions['activity'])}}</li>
+			<li><strong>Incentives</strong> {{', '.join(dimensions['incentives'])}}</li>
+			<li><strong>Interfaces</strong> {{', '.join(dimensions['interface'])}}</li>
 		</ul>
 		<a href="{{url}}" target="_blank" class="cbp-l-project-details-visit">visit the site</a>
 	</div>

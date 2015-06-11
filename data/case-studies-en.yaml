@@ -16,7 +16,7 @@
   authors: []
   highlights: []
   learnings: []
-  city: Web-based
+  city: Internet
   state: 
   country: 
   scope: 
@@ -811,7 +811,7 @@
   thumbnail_url: 
   focus: 
    - Scientific Research 
-  city: Web-based
+  city: Internet
   state:
   country: 
   type: Case-Studies
@@ -1275,7 +1275,7 @@
     incentives:
      - Civic responsibility 
     participation: []
-    quality_control:
+    quality_control: []
     interface:
      - Website 
   validation:
@@ -1435,7 +1435,7 @@
   focus:
    - Research and consulting
    - Scientific Research 
-  city: Web-based 
+  city: Internet 
   state:
   country: 
   size:
@@ -3513,11 +3513,12 @@
   
 - title: World Bank ICT4Gov
   url: http://beta.ict4gov.org/
-  description: The World Bank’s ICT4Gov initiative is a knowledge base for government 
-  practitioners to share information and resources to encourage use of Information and 
-  Communication Technologies (ICT) for better governance. The World Bank Institute is 
-  facilitating such initiatives in a number of pilot participatory budgeting projects in 
-  the Dominican Republic and the Democratic Republic of Congo. 
+  description: >
+   The World Bank’s ICT4Gov initiative is a knowledge base for government 
+   practitioners to share information and resources to encourage use of Information and 
+   Communication Technologies (ICT) for better governance. The World Bank Institute is 
+   facilitating such initiatives in a number of pilot participatory budgeting projects in 
+   the Dominican Republic and the Democratic Republic of Congo. 
   city: 
   state: 
   country: 
