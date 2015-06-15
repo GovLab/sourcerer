@@ -1502,12 +1502,29 @@
   city: Brooklyn
   state: NY
   country: USA
-  size:
+  size: 8,819,844 
   duration: Since April 28, 2009
   cost:
   historical_information: >
+   The idea of Kickstarter came to Perry Chen in 2002 when he tried to produce a DJ 
+   show in New Orleans. He had found a perfect location and tried to raise the 
+   necessary money to stage it but in the end the show did not happen since the 
+   amount of money required was too much. Chen was disturbed by the fact that the 
+   audience had no decision in the process. He had the idea of developing a site 
+   where people could buy tickets in advance or pledge money for projects they were 
+   interested in seeing coming to live, if not enough money was raised then people 
+   would not be charged. From New Orleans Chen moved to New York where he met Yancey 
+   Strickler, co-founder of Kickstarter. With Strickler they brainstormed ideas for 
+   the project, then they met Charles Adler, the first designer of the platform, 
+   who helped develop the image of the site. In April 28, 2009 they launched the 
+   site. The first project posted was of Chen, to pledge money for stenciled t-shirts. 
+   In 2011, they reached one million backers and in February 2012, one of the projects 
+   in Kickstarter reached the amount of a million dollars in pledges. 
   output:
-  impact_today:
+  impact_today: >
+   More than 87,000 projects have been successfully funded through Kickstarter. 106 projects 
+   have raised up to a million dollars and more than half of the successful projects have 
+   raised between 1,000 and 9,999 dollars. 
   type:
   authors: []
   highlights: []
