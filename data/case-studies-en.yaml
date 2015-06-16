@@ -1493,6 +1493,16 @@
 - title: Kickstarter
   url: https://www.kickstarter.com/
   description: >
+   Kickstarter is a platform to fund creative projects. Individuals and teams that need help
+   with funding, post their projects in the Kickstarter platform. Each project must contain 
+   the explanation of the story behind the project, it must specify a funding goal and a 
+   deadline to achieve it. If the project does not reach the funding goal in the determined 
+   time lapse, it does not receive any of the money pledged by the participants. Individuals 
+   retain the intellectual property of their projects and Kickstarter charges a 5% fee of 
+   the raised funds of any successful project. To encourage individuals to pledge money, each 
+   project must offer rewards according to the amount of pledged money. Besides helping projects 
+   obtain the funding they need, Kickstarter helps develop community engagement between the
+   project and the funders. 
   scope: 
    - International 
   sector: Private
