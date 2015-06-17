@@ -822,6 +822,20 @@
   duration: Since 2008. 
   cost:
   historical_information: >
+   David Baker, a biochemist at the University of Washington, designed Foldit 
+   with the help of Zoran Popovic, a computer scientist also at the University 
+   of Washington, and David Salesin. The idea to develop Foldit came from the 
+   Rosetta@Home program, a distributed computing project designed to predict 
+   the structure of proteins. Rosetta@Home works with the help of millions of 
+   computers that have the program installed and that help process the information 
+   of the structure of particular proteins. This information is displayed in the 
+   form of a screensaver to each individual computer. David Baker realized 
+   that users could not only help by downloading the program but also by helping 
+   the program design the structure of the proteins. The three of them decided 
+   that the best way to incentivize people to participate in figuring out the 
+   structure of proteins was developing a game, where proteins could be folded 
+   in different ways minimizing the space between each piece, just like in Tetris.
+   In May, 2008 the beta version of the video game was released to the public. 
   output: >
    As of January 2012, Foldit had 240,000 registered users, and the Foldit 
    application was available for PC, Mac, and Linux.
