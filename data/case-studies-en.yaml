@@ -2847,9 +2847,9 @@
    that allow citizens to report issues, browse open problems, view a list of active
    neighbors and send and receive messages. The company also provides links on its 
    website for governments to request custom mobile apps for their area.
-  city: 
-  state: 
-  country: 
+  city: New Haven
+  state: CT
+  country: USA
   scope: 
    - International
   sector: Non-profit
@@ -2866,8 +2866,20 @@
   cost:
   crowd: 
   historical_information: >
-   It was founded in September 2008 by CEO Ben Berkowitz and COO Miles Lasater 
-   in New Haven Connecticut.
+   SeeClickFix was launched in September 2008 as a communications 
+   platforms for citizens in New Haven that wanted to report non-emergency issues. 
+   Ben Berkowitz on of the cofounders of SeeClickFix had the idea to create the 
+   platform after trying to get some graffiti of the wall of his neighbour’s building. 
+   After talking with him and realizing he was not going to offer much help, 
+   Berkowitz decided to call the city hall to have the problem fixed. Various of 
+   his calls went unanswered and out of his frustration the idea of creating a platform 
+   to report non-emergency issues came to his mind. If citizens could upload photos 
+   of city problems that needed to get fixed, then the government could be held 
+   accountable. Some of his cofounders had similar frustrations regarding the delivery 
+   of social service and decided to create the platform. The platform is open so any 
+   individual can post problems in their own communities. They also have partnered 
+   with multiple local governments to create personalized versions of the app and have 
+   created a platform so media partners can engage with their community through the website. 
   output: >
    SeeClickFix’s sophisticated and well-designed web and mobile interface make 
    it very easy for citizens to report and monitor problems. The ability to 
