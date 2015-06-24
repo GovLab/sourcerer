@@ -56,3 +56,5 @@ target/
 #luis stuff
 *.ipynb
 site/*.html
+
+site/advisor.html
