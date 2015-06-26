@@ -3761,15 +3761,20 @@
    questionnaires. Zooniverse works with scientists and scholars from a wide 
    variety of fields, including astronomy, humanities, climate science, planetary 
    science, classics, and ecology.
-  city: 
+  city: Internet
   state: 
   country: 
-  scope: []
-  sector:
+  scope: 
+   - International 
+  sector: Non-profit
   thumbnail_url: 
-  focus: []
-  size: 
-  duration: 
+  focus:
+   - Civic Innovation
+   - Civic Participation
+   - Data/Technology
+   - Scientific Research 
+  size: More than 1,300,000 people
+  duration: Since August 19, 2009
   cost:
   type:
   authors: []
@@ -3787,7 +3792,7 @@
    Zooniverse’s projects produces publications based on their findings, which 
    are available to users through the website.
   impact_today: >
-   As of October 17, 2013, Zooniverse has 873,105 participating in 18 active
+   As of June, 2015, Zooniverse has 1,300,000 participating in 29 active
    projects. These contributions aide scientists in various fields with tasks 
    such as classification and transcription.
   impact_longer_term:
