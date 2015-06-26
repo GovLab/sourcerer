@@ -3802,8 +3802,12 @@
     activity: 
      - Tasks 
      - Knowledge Building/Information Sharing 
-    incentives: []
-    participation: []
+    incentives: 
+     - Knowledge Building/Information Sharing
+     - Skill Development
+     - Community Building 
+    participation: 
+     - Allow anyone willing to participate to do so
     quality_control:
      - Peer-reviewed
     interface:
