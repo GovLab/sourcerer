@@ -3782,10 +3782,13 @@
   learnings: []
   crowd: 
   historical_information: >
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
-   in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
-   in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
-   In id auctor diam. Aenean vulputate elementum porta. Aliquam vel dui diam.
+   Zooniverse was launched on August 19, 2009 after the success of the Galaxy Zoo 
+   platform. It was designed to host the Galaxy Zoo project and a series of citizen 
+   science projects on its interface. Zooniverse intends to provide a home for 
+   Citizen Science in the web. With the launching of the site, the Citizen Science 
+   Alliance was also launched. The three projects believe in the power of online 
+   distributed communities as a key element in the endeavor of advancing  scientific 
+   research and further the people’s knowledge of the scientific process. 
   output: >
    There are 22 projects which Zooniverse has run or is currently running. The 
    original Galaxy Zoo project produced millions of classifications. Each of 
