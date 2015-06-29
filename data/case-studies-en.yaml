@@ -3402,8 +3402,22 @@
   cost:
   historical_information: >
    Ushahidi, which means “testimony” in Swahili, was originally developed by an 
-   ad hoc group of volunteers in 2008 to help map reports of violence following 
-   the Kenyan election.
+   ad hoc group of volunteers in January 2008 to help map reports of violence following 
+   the Kenyan election. It all originated with a blogpost request by Ory Okolloh, a 
+   famous blogger and lawyer from Kenya, who had to leave the country as a result of the 
+   violence acts that broke from the 2007 election. Okolloh asked if there were a group 
+   of techies willing to develop a platform to report violence and destruction acts in 
+   real time using Google Maps, since she believed that government and media were 
+   underreporting the number of deaths that were taking place. After the blog was posted
+   a two day mashup took place and from there Ushahidi resulted. Since the platform had 
+   more than 45,000 registered users the founders of Ushahidi decided to develop a platform 
+   that could be used by anyone around the world to report and map real time situations. 
+   The Ushahidi platform has been used for citizen reporting in various natural disaster 
+   situations and in political conflicts, like in the earthquakes of Haiti and Chile. 
+   Six year after its creation, Ushahidi founded iHub, an innovation hub for the technology 
+   community in Nairobi. They also helped implement the Making all Voices Count Challenge, 
+   a fund that helps to scale up projects that seek to engage citizen participation towards 
+   effective governance and accountability in Asia and Africa.
   participation:
   output:
   impact_today: >
