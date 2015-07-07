@@ -2435,26 +2435,52 @@
    that participants who do not wish to contribute and receive the kit can still 
    build the tools to participate in the project. Additionally, Public Lab is a 501c3 
    non-profit, meaning that it can receive tax-deductible donations. 
-  city: 
+  city: Internet
   state: 
   country: 
-  scope: []
-  sector:
+  scope: 
+   - International 
+  sector: Non-profit
   thumbnail_url: 
-  focus: []
+  focus:
+   - Civic Innovation
+   - Civic Participation
+   - Data/Technology
+   - Environment & Weather
+   - Scientific Research
   size: 
   type: Case-Studies
   authors: []
   highlights: []
   learnings: []
-  duration: 
+  duration: Since 2011
   cost:
   crowd: 
   historical_information: >
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
-   in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
-   in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
-   In id auctor diam. Aenean vulputate elementum porta. Aliquam vel dui diam.
+   Public Lab was inspired by the information blackout surrounding the 2010 BP
+   Oil Disaster in the Gulf of Mexico. Despite having a massive impact on 
+   residents and the environment, local communities received sparse, incomplete 
+   data that contradicted what they could see unfolding in front of them. As 
+   news of the spill’s severity spread and outrage about limited access to 
+   information simmered locally, three of Public Lab’s would-be co-founders, 
+   Shannon Dosemagen, Jeff Warren and Stewart Long, convened in the Gulf Coast 
+   with a plan to use helium balloons, kites and inexpensive digital cameras to 
+   loft their own "community satellites" over the spill. The trio, in partnership 
+   with New Orleans-based environmental justice organization, Louisiana Bucket Brigade, 
+   trained over one hundred local volunteers and activists who then collected over 
+   100,000 aerial images of the coastline before, during, and after the oil spread. 
+   Using MapKnitter, an open source platform created by the group, residents stitched 
+   these images into high-resolution maps of the disaster. Through a partnership 
+   with Google Earth Outreach, these community-created maps were then uploaded to 
+   Google Earth making them globally accessible. The maps of the spill received broad 
+   media coverage, including being featured by the New York Times, BBC, PBS, and the 
+   Boston Globe, allowing residents to speak their truth to the world about what was 
+   going on in the Gulf Coast. The success of the grassroots mapping effort galvanized 
+   Dosemagen, Warren, and Long, along with other collaborators, to found Public Lab as 
+   a new research and social space for the development of cheap tools for community 
+   based environmental monitoring and research. With early support from the John S. 
+   and James L. Knight Foundation via the Knight New Challenge, the group formally 
+   launched Public Lab as a nonprofit organization in summer 2011.
   output: >
    In addition to the creation of both hardware and software, Public Lab allows 
    members to submit their data collection back to Public Lab creating a source 
@@ -2474,7 +2500,8 @@
      - Skill Development
      - Community Building 
      - Competition 
-    participation: []
+    participation: 
+     - Allow anyone willing to participate to do so
     quality_control:
      - Peer-reviewed
     interface:
