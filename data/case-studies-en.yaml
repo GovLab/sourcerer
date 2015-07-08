@@ -157,7 +157,7 @@
 - title: agreeble
   url: http://agreeble.com
   description: >
-   agreeble is an interactive surveying platform and sentiment analysis tool 
+   Agreeble is an interactive surveying platform and sentiment analysis tool 
    that aims to produce "insight through open dialogue" by curating issues and
    gauging community perception on those issues. 
    <br/>
@@ -168,7 +168,7 @@
   authors: []
   highlights: []
   learnings: []
-  city:
+  city: Internet
   state:
   country:
   scope:
@@ -182,18 +182,18 @@
    - Finance-and-investment
    - Governance
   size: 
-  duration: 1 year
+  duration: Since January 2014
   cost: free
   historical_information: >
-   Agreeble started to answer the question, which opinions drive consensus between
-   people on polar ends of an issue?
+   Agreeble started to answer the question, "which opinions drive consensus between
+   people on polar ends of an issue?"
    <br/>
-   We proved the concept by playing an index card version of the game, which worked
-   great for about five people. Once we worked out kinks in the model, development
+   They proved the concept by playing an index card version of the game, which worked
+   great for about five people. Once they worked out kinks in the model, development
    began, and we started working with larger sample sets. 
    <br/>
-   We incorporated in January of 2014 and have since added advisors in research, ux, 
-   marketing, and rhetoric. We have additionally partnered with Amazon and uSamp for
+   They incorporated in January of 2014 and have since added advisors in research, ux, 
+   marketing, and rhetoric. They have additionally partnered with Amazon and uSamp for
    sourcing samples.
   output:
   impact_today: >
@@ -201,9 +201,9 @@
    messaging, others use it to respond to public relations issues. Our political 
    users have leveraged it to study their demographics on local issues.
   impact_longer_term: >
-   We believe that part of the problem with polarization is the platform. Our goal 
-   is to shed light on the grey, when issues seem black or white, and see if we 
-   can't unlock consensus in the process. 
+   "We believe that part of the problem with polarization is the platform. Our goal 
+   is to shed light on the grey areas, when issues seem black or white, and see if we 
+   can't unlock consensus in the process". 
   crowd:
   challenges:
   lessons:
@@ -305,7 +305,7 @@
   focus: 
    - Civic Participation 
   size:
-  duration:
+  duration: Since May 2012
   cost:
   crowd:
   historical_information: >
@@ -378,7 +378,7 @@
   focus: 
    - Volunteering 
   size:
-  duration: 5 years 
+  duration: Since 2010
   cost:
   historical_information: >
    Founded in 2010 by former investment banker Rachael Chong, Catchafire is a 
@@ -435,7 +435,7 @@
   state:
   country: USA
   size:
-  duration:
+  duration: Since 2010
   cost:
   historical_information: >
    In his September 2009 Strategy for American Innovation, President Obama called 
@@ -450,7 +450,8 @@
    a web-based platform for prizes and challenges within 120 days'. OMB 
    tasked General Services Administration with overseeing the launch and 
    continued program.
-  output:
+  output: >
+   Since its launch the of the platfrom
   impact_today: >
    As of 2013, the site has hosted challenges posted by 45 departments and 
    agencies, and more than 16,000 citizen “solvers” have participated in 
