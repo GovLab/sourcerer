@@ -1966,6 +1966,71 @@
     interface:
      - Website 
   validation:  
+  
+- title: Open Source Drug Discovery 
+  url: http://www.osdd.net/
+  description: >
+   Open Source Drug Discovery (OSDD) is a CSIR-led global initiative with the 
+   vision to provide affordable healthcare to the developing world. Its aim is 
+   to discover drugs for tropical infectious diseases which draw limited attention 
+   of established pharmaceutical enterprises. OSDD charts a novel course in drug 
+   discovery process by bringing in openness and collaborative spirit enabling 
+   researchers across the globe to work together to solve key challenges in drug 
+   discovery. This collaborative approach will keep the cost of discovery and thereby 
+   making drugs affordable. OSDD provides a collaborative platform for scientists, 
+   doctors, technocrats, software professionals, students and others with diverse 
+   expertise to facilitate the drug discovery process. OSDD portal, Sysborg 2.0 is 
+   the platform for such collaboration.
+  city: 
+  state: 
+  country: India
+  scope:
+   - International 
+  sector: Government
+  thumbnail_url: 
+  focus:
+   - Civic Innovation
+   - Data/Technology
+   - Healthcare
+   - Scientific Research
+  size: 
+  type: Case-Studies
+  authors: []
+  highlights: []
+  learnings: []
+  duration: Since September 15, 2008
+  cost:
+  crowd: 
+  historical_information: >
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
+   in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
+   in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
+   In id auctor diam. Aenean vulputate elementum porta. Aliquam vel dui diam.
+  output:     
+  impact_today: 
+  impact_longer_term:
+  challenges:
+  lessons:
+  dimensions:
+    activity: 
+     - Tasks 
+     - Ideas
+    incentives:
+     - Knowledge Building/Information Sharing
+     - Skill Development
+     - Community Building
+     - Competition 
+     - Altruistic incentive
+     - Recreational incentive
+     - Public Recognition
+    participation: 
+     - Allow anyone willing to participate to do so
+    quality_control:
+     - You
+     - Peer-reviewed
+    interface:
+     - Website
+  validation:
 
 - title: Participatory Budgeting in NYC
   url: http://pbnyc.org
