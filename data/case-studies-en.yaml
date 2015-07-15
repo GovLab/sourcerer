@@ -225,6 +225,50 @@
     - Website
     - Social Media
   validation:
+
+- title: Amazon Mechanical Turk
+  url: https://www.mturk.com/mturk/welcome
+  description:
+  city: Internet
+  state: 
+  country: 
+  scope:
+   - International 
+  sector: Private
+  thumbnail_url: 
+  focus: 
+   - Data/Technology
+  size: 
+  type: Case-Studies
+  authors: []
+  highlights: []
+  learnings: []
+  duration: Since 2005
+  cost:
+  crowd: 
+  historical_information: >
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
+   in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
+   in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
+   In id auctor diam. Aenean vulputate elementum porta. Aliquam vel dui diam.
+  output:     
+  impact_today: 
+  impact_longer_term:
+  challenges:
+  lessons:
+  dimensions:
+    activity: 
+     - Tasks
+    incentives:
+     - Financial Incentives
+     - Skill Development
+    participation: 
+     - Allow anyone willing to participate to do so
+    quality_control:
+     - Group of Experts
+    interface:
+     
+  validation:
   
 - title: Antenna
   url: http://www.readrboard.com/
