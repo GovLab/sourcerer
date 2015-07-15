@@ -228,7 +228,18 @@
 
 - title: Amazon Mechanical Turk
   url: https://www.mturk.com/mturk/welcome
-  description:
+  description: >
+   Amazon Mechanical Turk is a marketplace for work that requires human intelligence. 
+   The Mechanical Turk service gives businesses access to a diverse, on-demand, 
+   scalable workforce and gives Workers a selection of thousands of tasks to complete 
+   whenever it's convenient.
+   <br/>
+   Amazon Mechanical Turk is based on the idea that there are still many things that 
+   human beings can do much more effectively than computers, such as identifying objects
+   in a photo or video, performing data de-duplication, transcribing audio recordings, or
+   researching data details. Traditionally, tasks like this have been accomplished by hiring
+   a large temporary workforce (which is time consuming, expensive, and difficult to scale)
+   or have gone undone.
   city: Internet
   state: 
   country: 
@@ -247,6 +258,7 @@
   cost:
   crowd: 
   historical_information: >
+    Amazon Mechanical Turk,
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
    in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
    in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
