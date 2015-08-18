@@ -3529,10 +3529,20 @@
   cost:
   crowd: 
   historical_information: >
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
-   in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
-   in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
-   In id auctor diam. Aenean vulputate elementum porta. Aliquam vel dui diam.
+   Jack Hughes founded Topcoder in 2001 after selling his Software Company Tallan. 
+   After being the CEO of Tallan, Hughes had the idea of creating a community of 
+   programmers that could conjointly work to develop software more rapidly. Hughes 
+   also incorporated in Tallan the idea of organizing competitions to design software
+   after some informal competitions he used to organize at his company. In these 
+   competitions, his workers produced better software and at a faster rate. Topcoder 
+   initially organized a series of tournaments where participants would compete to write 
+   algorithms to solve a problem. The person with the most effective algorithm would win 
+   a prize. These weekly tournaments were sponsored by some big tech companies like Google
+   and Intel and some of the top programmers were hired by the sponsors. After designing a
+   competition where a whole software could be developed, Topcoder started working with 
+   companies to develop customized software for them. Now Topcoder promotes three types 
+   of challenges: Graphic Design Challenges, Software Development Challenges and 
+   Data Science Challenges. 
   output: >
    TopCoder has a broad catalog of software development completed through 
    crowdsourcing – from mobile apps to entire enterprise systems – with their 
