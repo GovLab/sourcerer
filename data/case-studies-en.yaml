@@ -3885,9 +3885,9 @@
    stakeholders, ICT4Gov is currently developing a mobile enabled citizen feedback 
    mechanism to promote accountability and better delivery of public services. 
   output:     
-  impact_today: 
-   In Democratic Republic of Congo, as of 2012, over 250,000 text messages have been sent 
-   throughout the different stages of this project. Since the beginning of the program, the provincial 
+  impact_today: >
+   In Democratic Republic of Congo, as of 2012, over 250,000 text messages have been sent throughout the different stages 
+   of this project. Since the beginning of the program, the provincial 
    Kivu government reports an increasing capacity of the local government to better allocate resources, 
    and communities involved have already seen an increase in the transfer of funds from the provincial 
    to the local level. The preliminary results of an external evaluation suggest a reduction of tax 
@@ -4012,7 +4012,7 @@
     interface:
      - Website 
   validation:
-  
+
 - title: Zooniverse
   url: https://www.zooniverse.org/
   description: >
@@ -4099,3 +4099,121 @@
     interface:
      - Website 
   validation:
+
+- title: Smithsonian Transcription Center
+  url: https://transcription.si.edu/
+  description: >
+   "The Smithsonian Institution has 138 million objects and specimens as well as 2 million library volumes. Altogether, the Smithsonian has 
+   over 157,000 cubic feet of archival material in its various collections. Less than 1 percent are on display in its 19 museums, libraries, 
+   galleries, archives and research centers. What might we learn if we could search the thoughts of artists, scientists, inventors, explorers 
+   and revolutionaries as expressed in the documents and specimens of the Smithsonian’s collections? Now, through digitization and transcription, 
+   ordinary citizens can help bring their insights to light!
+   <br/>
+   Participants in the project volunteer to type what they see in logbooks and on pages and specimen labels using instructions tailored to each 
+   document type. Volunteers can contribute anonymously or create an account to track their work. Once volunteers have an account, they may review 
+   the work of others and make edits where necessary.
+   <br/>
+   Each week, new projects are added, with new discoveries waiting in the pages! TheSmithsonian Transcription Center uses social media, email and blog 
+   posts to connect volunteers to each other and provide details about collections featured in the center.
+   <br/>
+   The text that volunteers create goes into the Smithsonian’s database, searchable in the Collections Search Center. As volunteers transcribe 
+   specimen labels, they create data to make new collection records. As they work, volunteers are creating greater access to and more useful 
+   information for Smithsonian Institution collections — which is seriously amazing!"
+  scope:
+   - International
+  sector: Government
+  thumbnail_url: img/1big.jpg
+  focus:
+   - Civic participation 
+   - Education
+   - Organizing
+   - Scientific Research
+  city: Washington
+  state: DC
+  country: United States
+  size: >
+   5,250 volunteers
+  duration: >
+   Started June, 2013
+  cost:[]
+  historical_information:
+  output:
+  impact_today: >
+   "The Smithsonian Transcription Center continues to meet its goals and to grow in the size and scope of its 
+   featured collections. The center’s interface, workflows and communications are also improving through helpful feedback from volunteers.
+   <br/>
+   Volunteers can expect to discover hidden histories, learn about scientific collecting, and understand the 
+   variety of Smithsonian collections. They also have the opportunity to join quarterly behind-the-scenes talks, 
+   ask Smithsonian staff questions, and make requests for new material — all part of the Smithsonian Transcription Center’s 
+   commitment to making the serious fun of transcription even better. Through their social media chat and shared discoveries, 
+   volunteers have revealed hidden histories of women in science; contributed to Wikipedia, eBird and other citizen science projects; 
+   and helped Smithsonian staff identify the collections to be shared next.
+   <br/>
+   The Smithsonian Transcription Center’s 5,250 digital volunteers have completely transcribed and reviewed over 
+   113,016 pages — a total that includes 859 projects shared by 13 Smithsonian archives, museums and libraries. 
+   The “pages” include biodiversity specimens, from which data have been transcribed and used to create 27,004 
+   new collection records for bumblebees and 23,488 new records for U.S. National Herbarium sheets. Data transcribed 
+   from logbooks for the Digital Access to a Sky Century@Harvard program have been used by astronomers to correlate glass 
+   plates and the passage of light over time through the galaxy, thereby identifying cosmic events and locating black holes. 
+   The Smithsonian Transcription Center has indexed its transcriptions and made the discoveries in its transcribed 
+   pages useful, resulting in over 3,300 downloads of project PDFs."
+  impact_longer_term: 
+  crowd: 
+  challenges: >
+   "For crowdsourcing projects like the Smithsonian Transcription Center, upholding the quality and validity of transcribed 
+   data is important. Volunteers work with Smithsonian staff in a three-step peer review process: Anyone can transcribe; 
+   registered volunteers review; and then staff validate the submissions. Specialized instructions for each type of material 
+   help keep volunteers on track, and they can submit questions directly or through social media.
+   <br/>
+   Sustaining volunteer engagement is another challenge; the Smithsonian Transcription Center shares the collective success 
+   of volunteers as frequently as possible. Volunteers also have special behind-the-scenes access to curators and collections 
+   managers, and they get first peeks at newly digitized collections. They also have the opportunity to share what they are 
+   learning as they transcribe."
+  lessons: 
+  type: Case-Studies
+  authors: []
+  highlights: []
+  learnings: []
+  dimensions:
+    activity: 
+     - Tasks
+     - Data
+    incentives:
+     - Knowledge Building/Information Sharing 
+     - Skill Development
+     - Community Building
+     - Civic responsibility
+     - Altruistic incentive
+     - Recreational incentive
+     - Personal Satisfaction 
+    participation: 
+     - Allow anyone willing to participate to do so 
+    quality_control:
+     - Peer-reviewed
+    interface:
+     - Website
+  validation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
