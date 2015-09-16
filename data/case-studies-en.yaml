@@ -2842,7 +2842,7 @@
   type:
   authors: []
   highlights: []
-  learnings: []
+  learnings: [] 
   scope: 
    - International 
   sector: Non-profit 
@@ -4134,7 +4134,7 @@
    5,250 volunteers
   duration: >
    Started June, 2013
-  cost:[]
+  cost:
   historical_information:
   output:
   impact_today: >
