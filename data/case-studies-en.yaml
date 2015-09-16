@@ -4194,6 +4194,210 @@
      - Website
   validation:
 
+- title: MapGive
+  url: http://mapgive.state.gov/
+  description: >
+   When a catastrophic earthquake hit Haiti in 2010, map data critical for response efforts were 
+   incomplete and hard to access. In a matter of days, hundreds of volunteers created the map for 
+   Port au Prince in OpenStreetMap, greatly facilitating recovery efforts.
+   <br/>
+   High-quality geographic data helps organizations and communities make important environmental, 
+   economic and disaster response decisions. In many places around the world, the information is 
+   incomplete or non-existent.
+   <br/>
+   In open (or crowdsourced) mapping, volunteers work together to create a free and open map of the 
+   world for purposes that range from mundane to critical. MapGive supports a global open mapping 
+   initiative with learning tools, satellite imagery, technical services, event support and networks in 
+   the global OpenStreetMap and humanitarian communities.
+   <br/>
+   MapGive is the U.S. State Department’s program for supporting OpenStreetMap. Contributors map infrastructure 
+   data in OpenStreetMap, including the line of roads, building footprints, points of services and amenities, 
+   land uses such as fields or industrial areas, and many other things. The Internet has many free maps, but 
+   the underlying data in many maps are not available for public use due to legal and technical restrictions. 
+   Through open mapping, anyone anywhere can sign up to learn mapping tools and start contributing, and anyone 
+   can use the open map data. During humanitarian response, large numbers of volunteers divide up work through 
+   the OSM Tasking Manager.
+   <br/>
+   Many entities work in the OpenStreetMap community, including governments, companies, non-profit organizations 
+   and schools. The core infrastructure of OpenStreetMap (the servers, intellectual property and domain) is maintained 
+   by the OSM Foundation, a non-profit organization based in the United Kingdom. The Humanitarian OpenStreetMap Team 
+   connects the OpenStreetMap community with groups working on humanitarian response and economic development.
+  scope:
+   - International
+  sector: Government
+  thumbnail_url: img/1big.jpg
+  focus:
+   - Civic Innovation
+   - Civic participation 
+   - Data/Technology
+   - Education
+   - Organizing
+   - Scientific Research
+   - Geospatial/Mapping
+   - Organizing
+   - Transparency & Accountability
+  city: Washington
+  state: DC
+  country: United States
+  size: []
+  duration: []
+  cost: []
+  historical_information: >
+   The MapGive initiative began with Imagery to the Crowd, which offers high-resolution commercial satellite 
+   imagery services in a format that volunteers can easily map into OpenStreetMap. With a focus on humanitarian 
+   and development applications, MapGive is run by the State Department’s Humanitarian Information Unit. The unit 
+   gives information to decisionmakers and partners in preparation for and response to humanitarian emergencies 
+   worldwide. It also supports innovative technologies and best practices for humanitarian information management.
+  output:
+  impact_today: >
+   Map data are key to assisting humanitarian and development missions. First responders to humanitarian emergencies 
+   use maps to find their way through unfamiliar and changed landscapes, and decisionmakers use maps to prepare their 
+   communities in the event of a disaster. Successes include support for the Ebola OpenStreetMap response in West Africa; 
+   for the Nepal earthquake; and for Connect Camps, a program in Africa that builds on the Young African Leaders Initiative.
+   <br/>
+   Everyone has an overwhelming urge to help when they see suffering, which is so immediate in today’s wired planet. 
+   Through OpenStreetMap, volunteers can make a powerful contribution with no more than an Internet connection and basic computer 
+   skills, even if they do not live in the area they are mapping.
+   <br/>
+   Another challenge has been keeping aligned with other institutions, both inside and outside of government. Many offices work 
+   with OpenStreetMap. Users all map together in the same database, but due to their different organizational structures, they 
+   don’t always work together on planning, communication strategies and development of resources and tools. The State Department, 
+   along with partners such as the U.S. Agency for International Development, Peace Corps, World Bank and American Red Cross, 
+   has been working to bridge the gap.
+  impact_longer_term: 
+  crowd: 
+  challenges: >
+   OpenStreetMap is an extremely dynamic community, with a constantly evolving and growing number of actors, events, new communities 
+   and related software projects. It takes an active learning approach to understand this landscape, build relationships and find ways 
+   to contribute (and continue to contribute) as an institution. For instance,MapGive has worked closely with the Humanitarian 
+   OpenStreetMap Team, mappers and other providers of imagery services to develop new processes and coordinate effectively when fulfilling 
+   imagery requests.
+   <br/>
+   Sustaining volunteer engagement is another challenge; the Smithsonian Transcription Center shares the collective success 
+   of volunteers as frequently as possible. Volunteers also have special behind-the-scenes access to curators and collections 
+   managers, and they get first peeks at newly digitized collections. They also have the opportunity to share what they are 
+   learning as they transcribe."
+  lessons: 
+  type: Case-Studies
+  authors: []
+  highlights: []
+  learnings: []
+  dimensions:
+    activity: 
+     - Tasks
+     - Data
+    incentives:
+     - Knowledge Building/Information Sharing 
+     - Skill Development
+     - Community Building
+     - Civic responsibility
+     - Altruistic incentive
+     - Recreational incentive
+     - Personal Satisfaction 
+    participation: 
+     - Allow anyone willing to participate to do so 
+    quality_control:
+     - Peer-reviewed
+    interface:
+     - Website
+  validation:
+
+
+- title: Smithsonian Transcription Center
+  url: https://transcription.si.edu/
+  description: >
+   "The Smithsonian Institution has 138 million objects and specimens as well as 2 million library volumes. Altogether, the Smithsonian has 
+   over 157,000 cubic feet of archival material in its various collections. Less than 1 percent are on display in its 19 museums, libraries, 
+   galleries, archives and research centers. What might we learn if we could search the thoughts of artists, scientists, inventors, explorers 
+   and revolutionaries as expressed in the documents and specimens of the Smithsonian’s collections? Now, through digitization and transcription, 
+   ordinary citizens can help bring their insights to light!
+   <br/>
+   Participants in the project volunteer to type what they see in logbooks and on pages and specimen labels using instructions tailored to each 
+   document type. Volunteers can contribute anonymously or create an account to track their work. Once volunteers have an account, they may review 
+   the work of others and make edits where necessary.
+   <br/>
+   Each week, new projects are added, with new discoveries waiting in the pages! TheSmithsonian Transcription Center uses social media, email and blog 
+   posts to connect volunteers to each other and provide details about collections featured in the center.
+   <br/>
+   The text that volunteers create goes into the Smithsonian’s database, searchable in the Collections Search Center. As volunteers transcribe 
+   specimen labels, they create data to make new collection records. As they work, volunteers are creating greater access to and more useful 
+   information for Smithsonian Institution collections — which is seriously amazing!"
+  scope:
+   - International
+  sector: Government
+  thumbnail_url: img/1big.jpg
+  focus:
+   - Civic participation 
+   - Education
+   - Organizing
+   - Scientific Research
+  city: Washington
+  state: DC
+  country: United States
+  size: >
+   5,250 volunteers
+  duration: >
+   Started June, 2013
+  cost: []
+  historical_information:
+  output:
+  impact_today: >
+   "The Smithsonian Transcription Center continues to meet its goals and to grow in the size and scope of its 
+   featured collections. The center’s interface, workflows and communications are also improving through helpful feedback from volunteers.
+   <br/>
+   Volunteers can expect to discover hidden histories, learn about scientific collecting, and understand the 
+   variety of Smithsonian collections. They also have the opportunity to join quarterly behind-the-scenes talks, 
+   ask Smithsonian staff questions, and make requests for new material — all part of the Smithsonian Transcription Center’s 
+   commitment to making the serious fun of transcription even better. Through their social media chat and shared discoveries, 
+   volunteers have revealed hidden histories of women in science; contributed to Wikipedia, eBird and other citizen science projects; 
+   and helped Smithsonian staff identify the collections to be shared next.
+   <br/>
+   The Smithsonian Transcription Center’s 5,250 digital volunteers have completely transcribed and reviewed over 
+   113,016 pages — a total that includes 859 projects shared by 13 Smithsonian archives, museums and libraries. 
+   The “pages” include biodiversity specimens, from which data have been transcribed and used to create 27,004 
+   new collection records for bumblebees and 23,488 new records for U.S. National Herbarium sheets. Data transcribed 
+   from logbooks for the Digital Access to a Sky Century@Harvard program have been used by astronomers to correlate glass 
+   plates and the passage of light over time through the galaxy, thereby identifying cosmic events and locating black holes. 
+   The Smithsonian Transcription Center has indexed its transcriptions and made the discoveries in its transcribed 
+   pages useful, resulting in over 3,300 downloads of project PDFs."
+  impact_longer_term: 
+  crowd: 
+  challenges: >
+   "For crowdsourcing projects like the Smithsonian Transcription Center, upholding the quality and validity of transcribed 
+   data is important. Volunteers work with Smithsonian staff in a three-step peer review process: Anyone can transcribe; 
+   registered volunteers review; and then staff validate the submissions. Specialized instructions for each type of material 
+   help keep volunteers on track, and they can submit questions directly or through social media.
+   <br/>
+   Sustaining volunteer engagement is another challenge; the Smithsonian Transcription Center shares the collective success 
+   of volunteers as frequently as possible. Volunteers also have special behind-the-scenes access to curators and collections 
+   managers, and they get first peeks at newly digitized collections. They also have the opportunity to share what they are 
+   learning as they transcribe."
+  lessons: 
+  type: Case-Studies
+  authors: []
+  highlights: []
+  learnings: []
+  dimensions:
+    activity: 
+     - Tasks
+     - Data
+    incentives:
+     - Knowledge Building/Information Sharing 
+     - Skill Development
+     - Community Building
+     - Civic responsibility
+     - Altruistic incentive
+     - Recreational incentive
+     - Personal Satisfaction 
+    participation: 
+     - Allow anyone willing to participate to do so 
+    quality_control:
+     - Peer-reviewed
+    interface:
+     - Website
+  validation:
+
+
 
 
 
