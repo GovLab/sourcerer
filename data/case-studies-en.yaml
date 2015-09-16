@@ -279,9 +279,8 @@
     quality_control:
      - Group of Experts
     interface:
-     
   validation:
-  
+
 - title: Antenna
   url: http://www.readrboard.com/
   description: >
@@ -2843,7 +2842,7 @@
   type:
   authors: []
   highlights: []
-  learnings: [] 
+  learnings: []
   scope: 
    - International 
   sector: Non-profit 
@@ -2980,7 +2979,7 @@
      - Mobile Application
      - Emails 
   validation:
-  
+
 - title: Safecast 
   url: http://blog.safecast.org/
   description: >
@@ -3258,7 +3257,7 @@
     interface:
      - Website 
   validation:  
-  
+
 - title: Stack Exchange  
   url: http://stackexchange.com/
   description: >
@@ -3290,7 +3289,7 @@
   focus: 
    - Data/Technology
    - Education
-   - Research & Consulting  
+   - Research & Consulting
   size: 
   type:
   authors: []
@@ -3416,7 +3415,7 @@
     interface:
      - Website 
   validation: 
-  
+
 - title: Tehuan 3.0
   url: http://tehuan.cic.mx
   description: >
@@ -3846,7 +3845,7 @@
     interface:
      - Website 
   validation:  
-  
+
 - title: World Bank ICT4Gov
   url: http://beta.ict4gov.org/
   description: >
@@ -3865,7 +3864,7 @@
   focus:
    - Civic Participation
    - Governance
-   - Transparency & Accountability 
+   - Transparency & Accountability
   size: 
   type: Case-Studies
   authors: []
