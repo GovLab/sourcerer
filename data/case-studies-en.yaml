@@ -258,7 +258,7 @@
   cost:
   crowd: 
   historical_information: >
-    Amazon Mechanical Turk,
+   Amazon Mechanical Turk,
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, urna 
    in venenatis fringilla, elit lorem accumsan ante, egestas pulvinar enim justo 
    in lectus. Nullam elementum vulputate orci, ac vestibulum lorem viverra ut. 
@@ -279,6 +279,7 @@
     quality_control:
      - Group of Experts
     interface:
+     - Website
   validation:
 
 - title: Antenna
@@ -2542,7 +2543,7 @@
     interface:
      - Mobile Application
   validation:
-  
+
 - title: Public Lab 
   url: http://publiclab.org/
   description: >
@@ -2842,7 +2843,7 @@
   type:
   authors: []
   highlights: []
-  learnings: [] 
+  learnings: []
   scope: 
    - International 
   sector: Non-profit 
@@ -2956,11 +2957,11 @@
   challenges:
   lessons: >
    One of RosPil’s good practices is the triple process of crowdsourcing they practice to run their project. 
-   1)	They rely on a crowd to inform them of suspicious tender processes. 
-   2)	After making a preliminary analysis of the terms of draft of the procurement process, they ask a 
+   1) They rely on a crowd to inform them of suspicious tender processes. 
+   2) After making a preliminary analysis of the terms of draft of the procurement process, they ask a 
    crowd of specialists about the particular technical requirements of that procurement process 
    in order to corroborate if it is plausible to have a bid under the conditions stated in the contract. 
-   3)	They obtain their financial resources by crowdfunding. 
+   3) They obtain their financial resources by crowdfunding. 
   dimensions:
     activity: 
      - Tasks 
@@ -4134,7 +4135,7 @@
    5,250 volunteers
   duration: >
    Started June, 2013
-  cost:
+  cost: []
   historical_information:
   output:
   impact_today: >
@@ -4192,10 +4193,6 @@
     interface:
      - Website
   validation:
-
-
-
-
 
 
 
